@@ -126,5 +126,5 @@ The Swagger UI might briefly show a validation placeholder error block — this 
 ## 👤 Author
 
 Kriya Oswal  
-GitHub: [@yourgithub](https://github.com/yourgithub)  
+GitHub: https://github.com/kriyaoswal 
 FastAPI Project for Backend Internship Assignment
