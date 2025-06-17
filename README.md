@@ -30,6 +30,14 @@ SplitApp/
 ```
 
 ---
+## 👩‍💻 Developer Setup Notes
+
+- Use a virtual environment to avoid dependency conflicts:
+  ```bash
+  python -m venv .venv
+  .\.venv\Scripts\activate
+  pip install -r requirements.txt
+---
 
 ##  Tech Stack
 
