@@ -22,7 +22,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8000/expenses",
+					"raw": "web-production-c6ec1.up.railway.app/expenses",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -41,7 +41,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8000/expenses",
+					"raw": "web-production-c6ec1.up.railway.app/expenses",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -69,7 +69,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8000/expenses/1d50cf47-6e79-4a57-8c5e-5b8e97ed2bbf",
+					"raw": "web-production-c6ec1.up.railway.app/expenses/1d50cf47-6e79-4a57-8c5e-5b8e97ed2bbf",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -89,7 +89,7 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8000/expenses/0b394753-b250-49a9-bd62-7bac3dca0b13",
+					"raw": "web-production-c6ec1.up.railway.app/expenses/0b394753-b250-49a9-bd62-7bac3dca0b13",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -109,7 +109,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8000/people",
+					"raw": "web-production-c6ec1.up.railway.app/people",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -128,7 +128,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8000/balances",
+					"raw": "web-production-c6ec1.up.railway.app/balances",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -147,7 +147,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:8000/settlements",
+					"raw": "web-production-c6ec1.up.railway.app/settlements",
 					"protocol": "http",
 					"host": [
 						"localhost"
