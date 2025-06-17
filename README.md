@@ -1,10 +1,10 @@
-# 📊 Split App Backend API
+# Split App Backend API
 
 A backend service built with **FastAPI** and **MongoDB Atlas** that enables users to log shared expenses, compute individual balances, and suggest minimal settlements. This project is part of a backend engineering assessment.
 
 ---
 
-## 🚀 Features Implemented
+## Features Implemented
 
 ✅ Add, update, delete shared expenses  
 ✅ Track who paid and who owes whom  
@@ -19,7 +19,7 @@ A backend service built with **FastAPI** and **MongoDB Atlas** that enables user
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 SplitApp/
@@ -31,7 +31,7 @@ SplitApp/
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **FastAPI** for API layer  
 - **MongoDB Atlas** with `motor` async driver  
@@ -74,7 +74,7 @@ A fully functional Postman collection is included:
 
 ## 🗃 Sample Payloads
 
-### ✅ Add Expense
+### ✅Add Expense
 ```json
 {
   "amount": 900,
@@ -110,13 +110,13 @@ A fully functional Postman collection is included:
 
 ---
 
-## 🧾 Note on Swagger UI
+## Note on Swagger UI
 
 The Swagger UI might briefly show a validation placeholder error block — this is **just Swagger's example schema**, not an actual API error. It disappears once valid payloads are submitted.
 
 ---
 
-## 🔐 Notes
+## Notes
 
 - No authentication layer added (not required by assignment)
 - Deployment optional — app runs on `localhost:8000`
